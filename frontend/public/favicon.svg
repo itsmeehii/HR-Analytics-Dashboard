@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#4F46E5"/>
+  
+  <!-- Center person (main focus) -->
+  <circle cx="32" cy="18" r="5" fill="white"/>
+  <path d="M 22 28 Q 32 24 42 28 L 42 36 Q 42 38 40 38 L 24 38 Q 22 38 22 36 Z" fill="white"/>
+  
+  <!-- Left person (slightly back) -->
+  <circle cx="18" cy="22" r="3.5" fill="white" opacity="0.7"/>
+  <path d="M 11 32 Q 18 29 25 32 L 25 38 Q 25 39 23.5 39 L 12.5 39 Q 11 39 11 38 Z" fill="white" opacity="0.7"/>
+  
+  <!-- Right person (slightly back) -->
+  <circle cx="46" cy="22" r="3.5" fill="white" opacity="0.7"/>
+  <path d="M 39 32 Q 46 29 53 32 L 53 38 Q 53 39 51.5 39 L 40.5 39 Q 39 39 39 38 Z" fill="white" opacity="0.7"/>
+  
+  <!-- Analytics indicator (upward arrow/trend) -->
+  <path d="M 32 44 L 32 52" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M 28 48 L 32 44 L 36 48" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
