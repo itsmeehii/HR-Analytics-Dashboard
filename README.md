@@ -1,3 +1,4 @@
+ HEAD
 # 📊 HR Analytics Dashboard
 
 A production-ready, full-stack HR Analytics web application built with React, Node.js, Express, and MongoDB.
@@ -250,3 +251,4 @@ All report endpoints accept: `department`, `status`, `role`, `startDate`, `endDa
 | Auth | JWT (jsonwebtoken) + bcryptjs |
 | PDF Export | jsPDF + jsPDF-AutoTable |
 | Dev | Nodemon, Concurrently |
+
